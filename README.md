@@ -8,7 +8,7 @@
 ### What I work with
 
 - **Network:** BGP · MPLS · EVPN/VXLAN · IPv6 · Juniper SRX/MX · Fortinet · Cisco
-- **Security:** SOC ops · incident response · MISP threat intel · vulnerability assessment · eJPT
+- **Security:** SOC ops · incident response · MISP threat intel · vulnerability assessment 
 - **Cloud & IaC:** Azure (AZ-500, AZ-700) · SaltStack · Ansible · NetBox · GitHub Actions
 - **Compliance:** DORA · NIS2 · ISO 27001 · NIST CSF 2.0
 
