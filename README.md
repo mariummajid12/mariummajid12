@@ -22,4 +22,4 @@
 | [ndn-ndt-sync](https://github.com/mariummajid12/ndn-ndt-sync) | 6G O-RAN digital twin sync — current LIST research |
 
 📍 Luxembourg · 📧 mariummajid67@gmail.com · [LinkedIn](https://www.linkedin.com/in/marium-majid-95a770131/)
-*Available for full-time roles from Sept 2026 — no sponsorship required.*
+*Available for full-time roles — no sponsorship required.*
